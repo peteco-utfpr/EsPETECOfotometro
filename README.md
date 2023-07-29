@@ -6,4 +6,5 @@ Toda a documentação relativa ao projeto, bem como códigos e afins está dispo
 Se deseja saber mais ou enviar feedback, contate-nos por nossas redes sociais:
 
 e-mail: petecoutfpr@gmail.com
+
 instagram: @peteco_utfpr
